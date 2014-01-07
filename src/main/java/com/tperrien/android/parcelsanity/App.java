@@ -1,5 +1,5 @@
 
-package com.tperrien.android.parcelablessanity;
+package com.tperrien.android.parcelsanity;
 
 import java.io.BufferedReader;
 import java.io.File;
